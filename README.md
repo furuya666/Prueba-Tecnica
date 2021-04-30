@@ -18,7 +18,7 @@
 ## contacto cel:75227982
 
 # API CONSUMIDAS
-## ttps://theaudiodb.com/api_guide.php
+## https://theaudiodb.com/api_guide.php
 ## https://lyricsovh.docs.apiary.io/
 ## https://randomuser.me/
 
