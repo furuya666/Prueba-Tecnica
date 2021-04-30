@@ -17,4 +17,9 @@
 ## si existiera un problema en la ejecucion del proyecto 
 ## contacto cel:75227982
 
+# API CONSUMIDAS
+## ttps://theaudiodb.com/api_guide.php
+## https://lyricsovh.docs.apiary.io/
+## https://randomuser.me/
+
 
